@@ -6,7 +6,7 @@
 $BreakLength = 15 * 60 #seconds
 
 $ProgressParams = @{
-    Activity = 'BEPUG meetup 11 March 2020'
+    Activity = 'BEPUG meetup 11 March'
     Status = '15 minute break'
 }
 
